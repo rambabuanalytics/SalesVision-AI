@@ -40,7 +40,18 @@ This project focuses on:
 - Data Visualization
 - Business Intelligence
 
----
+------
+
+## 📂 Datasets
+
+The project includes cleaned and transformed datasets used for dashboard development.
+
+### Included Files
+- customers_cleaned_data.xlsx
+- orders_clean_final.xlsx
+- products_clean_final.xlsx
+
+These datasets were processed and structured before visualization in Power BI.
 
 ## 📷 Dashboard Preview
 
