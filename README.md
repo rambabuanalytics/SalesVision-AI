@@ -39,8 +39,21 @@ This project focuses on:
 - Excel
 - Data Visualization
 - Business Intelligence
+  
+---
 
-------
+## ⚙️ Data Processing Workflow
+
+Before dashboard development, the raw business data was cleaned, transformed, and analyzed using multiple technologies.
+
+### Workflow Includes
+- Data Cleaning using Excel
+- SQL Queries for KPI generation and business analysis
+- Python preprocessing and transformation
+- Data Modeling in Power BI
+- Interactive dashboard visualization
+
+This project demonstrates a complete end-to-end Business Intelligence workflow.
 
 ## 📂 Datasets
 
