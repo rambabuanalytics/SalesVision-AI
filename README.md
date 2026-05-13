@@ -4,7 +4,7 @@ AI-Powered Interactive Business Intelligence Dashboard built with Power BI.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 SalesVision-AI is a modern business intelligence dashboard designed to transform raw sales data into actionable insights.
 
@@ -18,7 +18,7 @@ This project focuses on:
 
 ---
 
-## 📊 Features
+##  Features
 
 ✅ Interactive Dashboard  
 ✅ Dynamic KPI Cards  
@@ -31,7 +31,7 @@ This project focuses on:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - DAX
@@ -42,7 +42,7 @@ This project focuses on:
   
 ---
 
-## ⚙️ Data Processing Workflow
+##  Data Processing Workflow
 
 Before dashboard development, the raw business data was cleaned, transformed, and analyzed using multiple technologies.
 
@@ -55,7 +55,7 @@ Before dashboard development, the raw business data was cleaned, transformed, an
 
 This project demonstrates a complete end-to-end Business Intelligence workflow.
 
-## 📂 Datasets
+##  Datasets
 
 The project includes cleaned and transformed datasets used for dashboard development.
 
@@ -66,7 +66,7 @@ The project includes cleaned and transformed datasets used for dashboard develop
 
 These datasets were processed and structured before visualization in Power BI.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### 🔹 Main Dashboard
 ![Dashboard](dashboard-main.png)
@@ -79,7 +79,7 @@ These datasets were processed and structured before visualization in Power BI.
 
 ---
 
-## 🎯 Business Goal
+##  Business Goal
 
 The objective of this project is to help businesses:
 - Track performance
@@ -89,7 +89,7 @@ The objective of this project is to help businesses:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ram Babu**  
 B.Tech CSE (AI/ML)  
